@@ -16,7 +16,7 @@ module.exports = (robot) ->
      msg.send 'Get all the deets on Thunder Plains:' +
      'http://thunderplainsconf.com/'
      msg.reply 'You should ask about the after party.'
-     robot.messageRoom '48ce347b8055f0d872c3ed74f20d38b9', 'hi, welcome to PDEIT India'
+     robot.messageRoom '48ce347b8055f0d872c3ed74f20d38b9', 'hi, welcome to PDEIT India!!!'
 		
 
 
