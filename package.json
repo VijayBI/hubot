@@ -1,13 +1,32 @@
 {
   "name": "vijaykumar",
-  "version": "0.0.0",
+  "version": "^2.18.0",
   "private": true,
   "author": "vijaykumar.bi@hp.com",
+  "keywords": [
+    "github",
+    "hubot",
+    "campfire",
+    "bot",
+    "flowdock",
+    "vijaykumar"
+  ],
+  "licenses": [{
+    "type": "MIT",
+    "url": "https://github.com/github/hubot/raw/master/LICENSE"
+  }],
+  "repository" : {
+    "type": "git",
+    "url": "https://github.com/github/hubot.git"
+  },
+
   "description": "A robot for PDEIT CI activities",
   "dependencies": {
+    "coffee-script": "1.6.3"
     "hubot": "^2.18.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-flowdock": "^0.7.6",
+    "hubot-fun": "^1.2.2",
     "hubot-google-images": "^0.2.6",
     "hubot-google-translate": "^0.2.0",
     "hubot-help": "^0.1.3",
@@ -19,6 +38,7 @@
     "hubot-shipit": "^0.2.0"
   },
   "engines": {
-    "node": "0.10.x"
+    "node": "5.1.x"
+    "npm":  "3.4.x"
   }
 }

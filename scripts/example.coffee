@@ -7,6 +7,12 @@
 #   Uncomment the ones you want to try and experiment with.
 #
 #   These are from the scripting documentation: https://github.com/github/hubot/blob/master/docs/scripting.md
+# General Flockdock API Token: f981977589fca47a5d149181dfe17394
+# flow token for vbibot : 376e9e05d4d7f24021d2eb17c67fdaf1
+# Flow token for testdemosrc: 9a42c761a76d2f2c14876b011226a91b
+# Flow token for vbisrc : e92ad722a8c344995b3d866aa11b917b
+# vbibot autorization code: 2281151c3bca2da7bceb19d9ed62d3c1e6bcf6a3174cec28090ad1f9e8bf2adb
+# Flow token for tsotestsrc: 7ea2b8fa800ec0425ebfc0589395108e 
 
 module.exports = (robot) ->
 
